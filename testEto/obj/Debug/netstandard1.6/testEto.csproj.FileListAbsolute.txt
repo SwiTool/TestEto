@@ -1,0 +1,9 @@
+/Users/switi/Documents/projets/testEto/testEto/bin/Debug/netstandard1.6/testEto.deps.json
+/Users/switi/Documents/projets/testEto/testEto/bin/Debug/netstandard1.6/testEto.dll
+/Users/switi/Documents/projets/testEto/testEto/bin/Debug/netstandard1.6/testEto.pdb
+/Users/switi/Documents/projets/testEto/testEto/obj/Debug/netstandard1.6/testEto.csprojAssemblyReference.cache
+/Users/switi/Documents/projets/testEto/testEto/obj/Debug/netstandard1.6/testEto.AssemblyInfoInputs.cache
+/Users/switi/Documents/projets/testEto/testEto/obj/Debug/netstandard1.6/testEto.AssemblyInfo.cs
+/Users/switi/Documents/projets/testEto/testEto/obj/Debug/netstandard1.6/testEto.dll
+/Users/switi/Documents/projets/testEto/testEto/obj/Debug/netstandard1.6/testEto.pdb
+/Users/switi/Documents/projets/testEto/testEto/obj/Debug/netstandard1.6/testEto.csproj.CoreCompileInputs.cache

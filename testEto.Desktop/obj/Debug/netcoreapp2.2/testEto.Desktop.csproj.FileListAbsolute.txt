@@ -1,0 +1,14 @@
+/Users/switi/Documents/projets/testEto/testEto.Desktop/bin/Debug/netcoreapp2.2/testEto.Desktop.deps.json
+/Users/switi/Documents/projets/testEto/testEto.Desktop/bin/Debug/netcoreapp2.2/testEto.Desktop.runtimeconfig.json
+/Users/switi/Documents/projets/testEto/testEto.Desktop/bin/Debug/netcoreapp2.2/testEto.Desktop.runtimeconfig.dev.json
+/Users/switi/Documents/projets/testEto/testEto.Desktop/bin/Debug/netcoreapp2.2/testEto.Desktop.dll
+/Users/switi/Documents/projets/testEto/testEto.Desktop/bin/Debug/netcoreapp2.2/testEto.Desktop.pdb
+/Users/switi/Documents/projets/testEto/testEto.Desktop/bin/Debug/netcoreapp2.2/testEto.dll
+/Users/switi/Documents/projets/testEto/testEto.Desktop/bin/Debug/netcoreapp2.2/testEto.pdb
+/Users/switi/Documents/projets/testEto/testEto.Desktop/obj/Debug/netcoreapp2.2/testEto.Desktop.csprojAssemblyReference.cache
+/Users/switi/Documents/projets/testEto/testEto.Desktop/obj/Debug/netcoreapp2.2/testEto.Desktop.csproj.CoreCompileInputs.cache
+/Users/switi/Documents/projets/testEto/testEto.Desktop/obj/Debug/netcoreapp2.2/testEto.Desktop.AssemblyInfoInputs.cache
+/Users/switi/Documents/projets/testEto/testEto.Desktop/obj/Debug/netcoreapp2.2/testEto.Desktop.AssemblyInfo.cs
+/Users/switi/Documents/projets/testEto/testEto.Desktop/obj/Debug/netcoreapp2.2/testEto.Desktop.csproj.CopyComplete
+/Users/switi/Documents/projets/testEto/testEto.Desktop/obj/Debug/netcoreapp2.2/testEto.Desktop.dll
+/Users/switi/Documents/projets/testEto/testEto.Desktop/obj/Debug/netcoreapp2.2/testEto.Desktop.pdb

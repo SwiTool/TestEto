@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": ".NET Framework Launch",
+        "type": "coreclr",
+        "request": "launch",
+        "preLaunchTask": "build",
+        "program": "${workspaceFolder}/testEto.Desktop/bin/Debug/net461/testEto.Desktop.app/Contents/MacOS/testEto.Desktop",
+        "args": [],
+      }
+    ]
+  }
